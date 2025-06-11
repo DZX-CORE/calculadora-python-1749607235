@@ -1,0 +1,9 @@
+# Calculadora Python Avançada - DZX-CORE
+# Não requer dependências externas - usa apenas biblioteca padrão Python
+
+# Para desenvolvimento (opcional):
+# pytest>=7.0.0  # Para testes unitários
+# black>=22.0.0  # Para formatação de código
+# flake8>=4.0.0  # Para linting
+
+# Python 3.6+ requerido
